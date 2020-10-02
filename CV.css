@@ -33,7 +33,7 @@ h3{
   font-size: 170%;
   padding-left: 10px;
   padding-top: 5px;
-  margin-top: 10px;
+  margin-top: 30px;
 
 }
  h2{
@@ -50,13 +50,13 @@ h4{
   color: purple;
   margin:0;
   padding: 0;
-  font-size: 60%;
+  font-size: 70%;
   
 }
 h5{
 margin-top: -10px;
 color: purple;
-font-size: 60%;
+font-size: 70%;
 }
 .col1{
   margin-left: 30px;
@@ -76,14 +76,14 @@ strong{
   font-size: 90%;
 }
 .colone2 p{
-  font-size: 65%;
+  font-size: 75%;
 }
 h6{
   margin: 0;
   padding-top: 15px;
   font-size: 70%;}
    strong{
-font-size: 95%;
+font-size: 110%;
   }
   .col1 p{
     font-weight: bold;
