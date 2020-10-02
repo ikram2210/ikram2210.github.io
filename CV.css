@@ -43,7 +43,7 @@ h3{
   margin-top: 30px;
   padding-top: 15px;
   padding-left: 10px; 
-  font-size: 110%;
+  font-size: 90%;
 }
 h4{
   
@@ -73,7 +73,7 @@ strong{
 }
 
 .colone1 p{
-  font-size: 80%;
+  font-size: 60%;
 }
 .colone2 p{
   font-size: 75%;
@@ -87,5 +87,5 @@ font-size: 100%;
   }
   .col1 p{
     font-weight: bold;
-    font-size: 90%;
+    font-size: 80%;
   }
