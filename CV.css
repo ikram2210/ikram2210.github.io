@@ -203,7 +203,7 @@ img {
 }
 .colone2{
   margin-left: 8px;
-  font-size: 35%;  
+  font-size: 30%;  
 }
 
 .contact{
@@ -238,16 +238,16 @@ h3{
   margin-bottom: 0;
 }
 p{
-   font-size: 35%; 
+   font-size: 30%; 
   }
   
 h4{
-    font-size: 40%;
+    font-size: 30%;
   
 }
 h5{
 margin-top: -10px;
-font-size: 40%;
+font-size: 30%;
 padding-top:  0;
 }
 h4 + p{
@@ -257,17 +257,17 @@ margin-top: 0;
 h6{
   margin: 0;
   padding-top: 5px;
-  font-size: 40%;}
+  font-size: 30%;}
 img {
     width: 100%;
   }
   .formation p{
-    font-size:40%;
+    font-size:30%;
   }
 .work p{
   margin-bottom: 10px;
   margin-top: 5px;
-  font-size: 40%;
+  font-size: 30%;
 }
 .stage p{
   font-weight: bold;
