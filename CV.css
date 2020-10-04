@@ -203,7 +203,7 @@ img {
 }
 .colone2{
   margin-left: 8px;
-  font-size: 20%;  
+  font-size: 15%;  
 }
 
 .contact{
@@ -231,18 +231,18 @@ h1{
 h3{
   height: 10px;
   width: 90%;
-  font-size: 35%;
+  font-size: 25%;
   padding-left: 10px;
   padding-top: 0px;
   margin-top: 0px;
   margin-bottom: 0;
 }
 p{
-   font-size: 20%; 
+   font-size: 15%; 
   }
   
 h4{
-    font-size: 30%;
+    font-size: 20%;
   
 }
 h5{
@@ -257,7 +257,7 @@ margin-top: 0;
 h6{
   margin: 0;
   padding-top: 5px;
-  font-size: 30%;}
+  font-size: 20%;}
 img {
     width: 100%;
   }
