@@ -229,7 +229,7 @@ h1{
   font-size: 55%;
 }
 h3{
-  height: 15px;
+  height: 10px;
   width: 90%;
   font-size: 60%;
   padding-left: 10px;
@@ -238,7 +238,7 @@ h3{
   margin-bottom: 0;
 }
 p{
-   font-size: 60%; 
+   font-size: 55%; 
   }
   
 h4{
@@ -262,7 +262,7 @@ img {
     width: 100%;
   }
   .formation p{
-    font-size:65%;
+    font-size:60%;
   }
 .work p{
   margin-bottom: 10px;
