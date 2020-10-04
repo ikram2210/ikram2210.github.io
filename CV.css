@@ -114,6 +114,7 @@ body{
 
 .colone2{
   margin-left:30px;
+  font-size: 110%;
   
 }
 .colone1{
@@ -185,6 +186,7 @@ img {
 .stage p{
   font-weight: bold;
 }
+
 @media screen and (min-width: 200px) and (max-width: 700px) {
 
 .page{
@@ -201,7 +203,7 @@ img {
 }
 .colone2{
   margin-left: 8px;
-  font-size: 90%;  
+  font-size: 107%;  
 }
 
 .contact{
@@ -209,60 +211,58 @@ img {
 
 }
 h1{
-  font-size: 115%;
+  font-size: 90%;
 
 }
-.stage p{
-  font-size: 80%;
-}
+
 .col1{
-  margin-left: 10px; 
+  margin-left: 3px; 
+  font-size: 135%;
 
 }
  h2{
-  height: 20px;
+  height: 15px;
   width: 80%;
   margin-top: 0px;
-  padding-top: 5px;
-  padding-left: 10px; 
-  font-size: 70%;
+  padding-top: 0px;
+  padding-left: 2px; 
+  font-size: 55%;
 }
 h3{
-  height: 20px;
+  height: 15px;
   width: 90%;
-  font-size: 70%;
+  font-size: 60%;
   padding-left: 10px;
-  padding-top: 10px;
-  margin-top: -5px;
+  padding-top: 5px;
+  margin-top: 0px;
   margin-bottom: 0;
 }
 p{
-   font-size: 80%; 
+   font-size: 60%; 
   }
   
 h4{
-    font-size: 60%;
+    font-size: 50%;
   
 }
 h5{
 margin-top: -10px;
-font-size: 60%;
+font-size: 50%;
 padding-top:  0;
 }
 h4 + p{
 margin-top: 0;
 }
 
-
-h4 + p{
-margin-top: 0;
-}
 h6{
   margin: 0;
   padding-top: 5px;
-  font-size: 70%;}
+  font-size: 60%;}
 img {
     width: 100%;
+  }
+  .formation p{
+    font-size:65%;
   }
 .work p{
   margin-bottom: 10px;
@@ -271,11 +271,12 @@ img {
 }
 .stage p{
   font-weight: bold;
+  
 }
 .colone1 p{
-  font-size: 65%;
+  font-size: 55%;
 }
 .contact p{
-  font-size: 60%;
+  font-size: 50%;
 }
 }
