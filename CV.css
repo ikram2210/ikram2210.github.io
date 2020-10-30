@@ -198,14 +198,15 @@ img {
 
   .colone1{
 
-  width: 60%;
-  height: 630px;
+  width: 75%;
+  height: 750px;
+  margin-left: -50px;
 
 }
 .colone2{
   margin-left: 8px;
   font-size: 60px; 
-  height: 630px; 
+  height: 750px; 
   width: 80%;
 
 }
@@ -262,9 +263,9 @@ h6{
   margin: 0;
   padding-top: 5px;
   font-size: 9px;}
-img {
-    width: 130px;
-  }
+ img{
+  width: 100%;
+ }
   .formation p{
     font-size:9px;
   }
