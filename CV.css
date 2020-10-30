@@ -194,26 +194,11 @@ img {
   font-weight: bold;
 }
 
-@media screen and (min-width: 200px) and (max-width: 700px) {
+@media screen  and (max-width: 700px) {
 
-/*.page{
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  margin-left: 0;
-  
-  } */
-
-  body{
-  height: 100%;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
   .colone1{
 
-  width: 160px;
+  width: 60%;
   height: 630px;
 
 }
@@ -221,6 +206,7 @@ img {
   margin-left: 8px;
   font-size: 60px; 
   height: 630px; 
+  width: 80%;
 
 }
 
@@ -256,16 +242,16 @@ h3{
   margin-bottom: 0;
 }
 p{
-   font-size:10px; 
+   font-size:9px; 
   }
   
 h4{
-    font-size: 10px;
+    font-size: 9px;
   
 }
 h5{
 margin-top: -10px;
-font-size: 10px;
+font-size: 9px;
 padding-top:  0;
 }
 h4 + p{
@@ -275,17 +261,17 @@ margin-top: 0;
 h6{
   margin: 0;
   padding-top: 5px;
-  font-size: 10px;}
+  font-size: 9px;}
 img {
     width: 130px;
   }
   .formation p{
-    font-size:11px;
+    font-size:9px;
   }
 .work p{
   margin-bottom: 10px;
   margin-top: 5px;
-  font-size: 11px;
+  font-size: 9px;
 }
 .stage p{
   font-weight: bold;
